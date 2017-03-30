@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  redis-cluster:
+  - created: 2017-03-30T08:26:46.641588754+02:00
+    description: Highly available Redis cluster with multiple sentinels and standbys.
+    digest: 30de525d5a50be0e31ae7b2b6630e9494c998c0b2a81f4ae6a08546440b96af4
+    engine: gotpl
+    home: http://redis.io/
+    keywords:
+    - redis
+    - keyvalue
+    - database
+    maintainers:
+    - email: ikaboubi@gmail.com
+      name: KABOUBI
+    name: redis-cluster
+    urls:
+    - https://revaultch.github.io/kubernetes_helm_repo/redis-cluster-0.2.0.tgz
+    version: 0.2.0
+generated: 2017-03-30T08:26:46.63995031+02:00
